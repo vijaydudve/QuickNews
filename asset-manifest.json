@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/QuickNews/static/css/main.abd64e84.css",
+    "main.js": "/QuickNews/static/js/main.c1c344cd.js",
+    "static/js/787.4c026eef.chunk.js": "/QuickNews/static/js/787.4c026eef.chunk.js",
+    "static/media/loading.gif": "/QuickNews/static/media/loading.b51df3f3ec072548cb48.gif",
+    "index.html": "/QuickNews/index.html",
+    "main.abd64e84.css.map": "/QuickNews/static/css/main.abd64e84.css.map",
+    "main.c1c344cd.js.map": "/QuickNews/static/js/main.c1c344cd.js.map",
+    "787.4c026eef.chunk.js.map": "/QuickNews/static/js/787.4c026eef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.c1c344cd.js"
+  ]
+}
